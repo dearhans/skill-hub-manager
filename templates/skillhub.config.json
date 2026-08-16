@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "registryDir": "registry",
+  "skillsDir": "skills",
+  "defaultCategory": "productivity",
+  "categories": [
+    "search",
+    "thinking",
+    "tools",
+    "writing",
+    "finance",
+    "development",
+    "productivity",
+    "design",
+    "education"
+  ],
+  "platforms": {
+    "raccoon": {
+      "enabled": true,
+      "path": "~/.box-agent/skills"
+    },
+    "local-agent-a": {
+      "enabled": false,
+      "path": "~/.local-agent-a/skills"
+    },
+    "cursor": {
+      "enabled": false,
+      "path": ""
+    }
+  }
+}
