@@ -1,4 +1,17 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 8f7b7fe8641bd17be8255ec21b76c7d7_39989844991511f1a98a525400f8a581
+    ReservedCode1: uffFBJmkZBfGplpnRU3Sd3oyPKV9K1o4HuNHDzduzpW7jGeAXz2sZI/VtVHFZz/8G8iC3/9nzJ0vI5tY9CPO4f6NkiPt6MgFHkVOvZRNLnj5DxLwhcpXhgC4qmRWf8lsKRWd7WEg31HC3VjP/S+E47ItCkax2V/J5YJ0qg5eMBznctY2fruesYITJTk=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 8f7b7fe8641bd17be8255ec21b76c7d7_39989844991511f1a98a525400f8a581
+    ReservedCode2: uffFBJmkZBfGplpnRU3Sd3oyPKV9K1o4HuNHDzduzpW7jGeAXz2sZI/VtVHFZz/8G8iC3/9nzJ0vI5tY9CPO4f6NkiPt6MgFHkVOvZRNLnj5DxLwhcpXhgC4qmRWf8lsKRWd7WEg31HC3VjP/S+E47ItCkax2V/J5YJ0qg5eMBznctY2fruesYITJTk=
+---
+
 # skill-hub-manager
+
+> [English](README.en.md) | 中文
 
 本地 Skill Hub 管理技能（MVP 完整包）。以「婴儿模式」（自然语言）管理本地技能库：创建、查找、同步、检查修复，并支持**结果预览、排序、整理、融合**四大进阶能力。
 
@@ -86,3 +99,4 @@ node scripts/skillhub.js merge --names a,b --name merged --zh 融合技能 --wri
 - 「整理一下我的能力库」
 - 「把 A 和 B 融合成一个能力」
 
+*（内容由AI生成，仅供参考）*
